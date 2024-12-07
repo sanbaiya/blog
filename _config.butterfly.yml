@@ -35,8 +35,8 @@ code_blocks:
   theme: light
   macStyle: false
   # Code block height limit (unit: px)
-  height_limit: false
-  word_wrap: false
+  height_limit: 230
+  word_wrap: true
 
   # Toolbar
   copy: true
@@ -49,8 +49,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/sanbaiya || Github || '#24292e'
+  fas fa-envelope: mailto:xiaoruan@zohomail.cn || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
